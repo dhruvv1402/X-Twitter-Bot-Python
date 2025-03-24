@@ -1,0 +1,12 @@
+tweepy
+python-dotenv
+textblob
+wordcloud
+matplotlib
+pandas
+numpy
+transformers
+pillow
+nltk
+schedule
+requests
